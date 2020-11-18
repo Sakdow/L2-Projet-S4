@@ -1,0 +1,135 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg width="568" height="345" view_box="0 0 568 345"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:link="http://www.w3.org/1999/xlink">\n\n<desc>Généré par Mocodo 2.3.5 le Sun, 21 May 2017 06:50:26</desc>
+
+<rect id="frame" x="0" y="0" width="568" height="345" fill="#ffffff" stroke="none" stroke-width="0"/>
+
+<!-- Association rencontrer -->
+<path d="M358 210 C 399.333333333 261.0 399.333333333 294.666666667 358 311" fill="none" stroke="#878787" stroke-width="2"/>
+<text x="361.0" y="278" fill="#b2182b" font-family="Verdana" font-size="12">0,n</text>
+<path d="M358 210 C 316.666666667 261.0 316.666666667 294.666666667 358 311" fill="none" stroke="#878787" stroke-width="2"/>
+<text x="334.0" y="278" fill="#b2182b" font-family="Verdana" font-size="12">0,n</text>
+<g id="association-rencontrer">
+	<path d="M 383 286 a 14 14 90 0 1 14 14 V 311 h -78 V 300 a 14 14 90 0 1 14 -14" fill="#bababa" stroke="#bababa" stroke-width="0"/>
+	<path d="M 397 311.0 v 11 a 14 14 90 0 1 -14 14 H 333 a 14 14 90 0 1 -14 -14 V 311.0 H 78" fill="#e0e0e0" stroke="#e0e0e0" stroke-width="0"/>
+	<rect x="319" y="286" width="78" height="50" fill="none" rx="14" stroke="#878787" stroke-width="2"/>
+	<line x1="319" y1="311" x2="397" y2="311" stroke="#878787" stroke-width="1"/>
+	<text x="326" y="303.7" fill="#000000" font-family="Verdana" font-size="12">rencontrer</text>
+</g>
+
+<!-- Association gagner -->
+<line x1="358" y1="210" x2="358" y2="109" stroke="#878787" stroke-width="2"/>
+<text x="363.0" y="151" fill="#b2182b" font-family="Verdana" font-size="12">1,1</text>
+<line x1="253" y1="34" x2="358" y2="109" stroke="#878787" stroke-width="2"/>
+<text x="288" y="52.8555973215" fill="#b2182b" font-family="Verdana" font-size="12">0,n</text>
+<g id="association-gagner">
+	<path d="M 373 84 a 14 14 90 0 1 14 14 V 109 h -58 V 98 a 14 14 90 0 1 14 -14" fill="#bababa" stroke="#bababa" stroke-width="0"/>
+	<path d="M 387 109.0 v 11 a 14 14 90 0 1 -14 14 H 343 a 14 14 90 0 1 -14 -14 V 109.0 H 58" fill="#e0e0e0" stroke="#e0e0e0" stroke-width="0"/>
+	<rect x="329" y="84" width="58" height="50" fill="none" rx="14" stroke="#878787" stroke-width="2"/>
+	<line x1="329" y1="109" x2="387" y2="109" stroke="#878787" stroke-width="1"/>
+	<text x="336" y="101.7" fill="#000000" font-family="Verdana" font-size="12">gagner</text>
+</g>
+
+<!-- Association jouer -->
+<line x1="253" y1="34" x2="154" y2="109" stroke="#878787" stroke-width="2"/>
+<text x="197" y="54.4319118595" fill="#b2182b" font-family="Verdana" font-size="12">0,n</text>
+<line x1="358" y1="210" x2="154" y2="109" stroke="#878787" stroke-width="2"/>
+<text x="281" y="197.878498635" fill="#b2182b" font-family="Verdana" font-size="12">2,2</text>
+<line x1="54" y1="109" x2="154" y2="109" stroke="#878787" stroke-width="2"/>
+<text x="104" y="126.0" fill="#b2182b" font-family="Verdana" font-size="12">1,1</text>
+<g id="association-jouer">
+	<path d="M 163 84 a 14 14 90 0 1 14 14 V 109 h -46 V 98 a 14 14 90 0 1 14 -14" fill="#bababa" stroke="#bababa" stroke-width="0"/>
+	<path d="M 177 109.0 v 11 a 14 14 90 0 1 -14 14 H 145 a 14 14 90 0 1 -14 -14 V 109.0 H 46" fill="#e0e0e0" stroke="#e0e0e0" stroke-width="0"/>
+	<rect x="131" y="84" width="46" height="50" fill="none" rx="14" stroke="#878787" stroke-width="2"/>
+	<line x1="131" y1="109" x2="177" y2="109" stroke="#878787" stroke-width="1"/>
+	<text x="138" y="101.7" fill="#000000" font-family="Verdana" font-size="12">jouer</text>
+</g>
+
+<!-- Association abandonner -->
+<line x1="358" y1="210" x2="253" y2="109" stroke="#878787" stroke-width="2"/>
+<text x="281" y="171.065993443" fill="#b2182b" font-family="Verdana" font-size="12">1,1</text>
+<line x1="253" y1="34" x2="253" y2="109" stroke="#878787" stroke-width="2"/>
+<text x="258.0" y="76" fill="#b2182b" font-family="Verdana" font-size="12">0,n</text>
+<g id="association-abandonner">
+	<path d="M 283 84 a 14 14 90 0 1 14 14 V 109 h -88 V 98 a 14 14 90 0 1 14 -14" fill="#bababa" stroke="#bababa" stroke-width="0"/>
+	<path d="M 297 109.0 v 11 a 14 14 90 0 1 -14 14 H 223 a 14 14 90 0 1 -14 -14 V 109.0 H 88" fill="#e0e0e0" stroke="#e0e0e0" stroke-width="0"/>
+	<rect x="209" y="84" width="88" height="50" fill="none" rx="14" stroke="#878787" stroke-width="2"/>
+	<line x1="209" y1="109" x2="297" y2="109" stroke="#878787" stroke-width="1"/>
+	<text x="216" y="101.7" fill="#000000" font-family="Verdana" font-size="12">abandonner</text>
+</g>
+
+<!-- Association placer -->
+<line x1="253" y1="34" x2="456" y2="109" stroke="#878787" stroke-width="2"/>
+<text x="288" y="39.9724920006" fill="#b2182b" font-family="Verdana" font-size="12">0,n</text>
+<line x1="358" y1="210" x2="456" y2="109" stroke="#878787" stroke-width="2"/>
+<text x="388.405413319" y="151" fill="#b2182b" font-family="Verdana" font-size="12">0,1</text>
+<line x1="525" y1="34" x2="456" y2="109" stroke="#878787" stroke-width="2"/>
+<text x="500.345301455" y="76" fill="#b2182b" font-family="Verdana" font-size="12">0,n</text>
+<g id="association-placer">
+	<path d="M 479 84 a 14 14 90 0 1 14 14 V 109 h -74 V 98 a 14 14 90 0 1 14 -14" fill="#bababa" stroke="#bababa" stroke-width="0"/>
+	<path d="M 493 109.0 v 11 a 14 14 90 0 1 -14 14 H 433 a 14 14 90 0 1 -14 -14 V 109.0 H 74" fill="#e0e0e0" stroke="#e0e0e0" stroke-width="0"/>
+	<rect x="419" y="84" width="74" height="50" fill="none" rx="14" stroke="#878787" stroke-width="2"/>
+	<line x1="419" y1="109" x2="493" y2="109" stroke="#878787" stroke-width="1"/>
+	<text x="437" y="101.7" fill="#000000" font-family="Verdana" font-size="12">placer</text>
+	<text x="426" y="126.8" fill="#000000" font-family="Verdana" font-size="12">numCoup</text>
+</g>
+
+<!-- Entity COUP -->
+<g id="entity-COUP">
+	<g id="frame-COUP">
+		<rect x="491" y="9" width="68" height="25" fill="#f4a582" stroke="#f4a582" stroke-width="0"/>
+		<rect x="491" y="34.0" width="68" height="25" fill="#fddbc7" stroke="#fddbc7" stroke-width="0"/>
+		<rect x="491" y="9" width="68" height="50" fill="none" stroke="#d6604d" stroke-width="2"/>
+		<line x1="491" y1="34" x2="559" y2="34" stroke="#d6604d" stroke-width="1"/>
+	</g>
+	<text x="507" y="26.7" fill="#000000" font-family="Verdana" font-size="12">COUP</text>
+	<text x="496" y="51.8" fill="#000000" font-family="Verdana" font-size="12">numCase</text>
+	<line x1="496" y1="54" x2="553" y2="54" stroke="#000000" stroke-width="1"/>
+</g>
+
+<!-- Entity CALENDRIER -->
+<g id="entity-CALENDRIER">
+	<g id="frame-CALENDRIER">
+		<rect x="9" y="84" width="90" height="25" fill="#f4a582" stroke="#f4a582" stroke-width="0"/>
+		<rect x="9" y="109.0" width="90" height="25" fill="#fddbc7" stroke="#fddbc7" stroke-width="0"/>
+		<rect x="9" y="84" width="90" height="50" fill="none" stroke="#d6604d" stroke-width="2"/>
+		<line x1="9" y1="109" x2="99" y2="109" stroke="#d6604d" stroke-width="1"/>
+	</g>
+	<text x="14" y="101.7" fill="#000000" font-family="Verdana" font-size="12">CALENDRIER</text>
+	<text x="14" y="126.8" fill="#000000" font-family="Verdana" font-size="12">datePartie</text>
+	<line x1="14" y1="129" x2="76" y2="129" stroke="#000000" stroke-width="1"/>
+</g>
+
+<!-- Entity JOUEUR -->
+<g id="entity-JOUEUR">
+	<g id="frame-JOUEUR">
+		<rect x="307" y="159" width="102" height="25" fill="#f4a582" stroke="#f4a582" stroke-width="0"/>
+		<rect x="307" y="184.0" width="102" height="77" fill="#fddbc7" stroke="#fddbc7" stroke-width="0"/>
+		<rect x="307" y="159" width="102" height="102" fill="none" stroke="#d6604d" stroke-width="2"/>
+		<line x1="307" y1="184" x2="409" y2="184" stroke="#d6604d" stroke-width="1"/>
+	</g>
+	<text x="333" y="176.7" fill="#000000" font-family="Verdana" font-size="12">JOUEUR</text>
+	<text x="312" y="201.7" fill="#000000" font-family="Verdana" font-size="12">joueurID</text>
+	<line x1="312" y1="204" x2="366" y2="204" stroke="#000000" stroke-width="1"/>
+	<text x="312" y="218.8" fill="#000000" font-family="Verdana" font-size="12">pseudo</text>
+	<text x="312" y="235.8" fill="#000000" font-family="Verdana" font-size="12">adresseMail</text>
+	<text x="312" y="252.8" fill="#000000" font-family="Verdana" font-size="12">anneNaissance</text>
+</g>
+
+<!-- Entity PARTIE -->
+<g id="entity-PARTIE">
+	<g id="frame-PARTIE">
+		<rect x="223" y="9" width="60" height="25" fill="#f4a582" stroke="#f4a582" stroke-width="0"/>
+		<rect x="223" y="34.0" width="60" height="25" fill="#fddbc7" stroke="#fddbc7" stroke-width="0"/>
+		<rect x="223" y="9" width="60" height="50" fill="none" stroke="#d6604d" stroke-width="2"/>
+		<line x1="223" y1="34" x2="283" y2="34" stroke="#d6604d" stroke-width="1"/>
+	</g>
+	<text x="230" y="26.7" fill="#000000" font-family="Verdana" font-size="12">PARTIE</text>
+	<text x="228" y="51.8" fill="#000000" font-family="Verdana" font-size="12">partieID</text>
+	<line x1="228" y1="54" x2="278" y2="54" stroke="#000000" stroke-width="1"/>
+</g>
+</svg>
